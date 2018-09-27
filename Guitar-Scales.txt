@@ -1,0 +1,101 @@
+tags:guitar scales
+Play A ionian ascending. Start with finger 4 on string 4.
+Play D ionian ascending. Start with finger 3 on string 2.
+Play F ionian ascending. Start with finger 2 on string 3, above the 12th fret.
+Play F# ionian ascending. Start with finger 3 on string 1.
+Play B ionian descending. Start with finger 2 on string 5, above the 12th fret.
+Play B ionian descending. Start with finger 3 on string 4, above the 12th fret.
+Play G ionian descending. Start with finger 2 on string 5.
+Play G ionian descending. Start with finger 1 on string 5.
+Play Eb ionian descending. Start with finger 2 on string 4.
+Play Ab ionian descending. Start with finger 2 on string 2, above the 12th fret.
+Play Eb ionian ascending. Start with finger 3 on string 6.
+Play Ab ionian ascending. Start with finger 1 on string 2.
+Play F ionian ascending. Start with finger 3 on string 5, above the 12th fret.
+Play F# ionian ascending. Start with finger 2 on string 1, above the 12th fret.
+Play C ionian ascending. Start with finger 3 on string 3.
+Play D ionian descending. Start with finger 2 on string 5, above the 12th fret.
+Play Gb ionian ascending. Start with finger 3 on string 4.
+Play Eb ionian ascending. Start with finger 4 on string 1, above the 12th fret.
+Play Ab ionian ascending. Start with finger 3 on string 2.
+Play Eb ionian descending. Start with finger 4 on string 2, above the 12th fret.
+Play G ionian ascending. Start with finger 1 on string 6, above the 12th fret.
+Play Eb ionian descending. Start with finger 1 on string 5, above the 12th fret.
+Play Bb ionian descending. Start with finger 1 on string 6, above the 12th fret.
+Play D ionian ascending. Start with finger 2 on string 3, above the 12th fret.
+Play F# ionian descending. Start with finger 3 on string 5.
+Play Ab ionian ascending. Start with finger 3 on string 2, above the 12th fret.
+Play F ionian ascending. Start with finger 1 on string 3, above the 12th fret.
+Play B ionian ascending. Start with finger 2 on string 1, above the 12th fret.
+Play F ionian descending. Start with finger 2 on string 2.
+Play Ab ionian descending. Start with finger 2 on string 1.
+Play Db ionian ascending. Start with finger 4 on string 3, above the 12th fret.
+Play Gb ionian descending. Start with finger 3 on string 1, above the 12th fret.
+Play G ionian ascending. Start with finger 3 on string 3.
+Play G ionian ascending. Start with finger 1 on string 6.
+Play Db ionian ascending. Start with finger 2 on string 1.
+Play D ionian descending. Start with finger 2 on string 2, above the 12th fret.
+Play F# ionian ascending. Start with finger 2 on string 5, above the 12th fret.
+Play Eb ionian descending. Start with finger 2 on string 1, above the 12th fret.
+Play Eb ionian descending. Start with finger 2 on string 6.
+Play G ionian ascending. Start with finger 3 on string 4, above the 12th fret.
+Play C ionian descending. Start with finger 4 on string 1.
+Play F ionian descending. Start with finger 2 on string 6, above the 12th fret.
+Play F ionian descending. Start with finger 1 on string 3.
+Play C ionian ascending. Start with finger 2 on string 3, above the 12th fret.
+Play C ionian ascending. Start with finger 2 on string 1, above the 12th fret.
+Play F# ionian descending. Start with finger 4 on string 4.
+Play D ionian ascending. Start with finger 4 on string 2.
+Play F# ionian descending. Start with finger 3 on string 5.
+Play B ionian descending. Start with finger 2 on string 1.
+Play F# ionian ascending. Start with finger 2 on string 4, above the 12th fret.
+Play F ionian descending. Start with finger 4 on string 3, above the 12th fret.
+Play B ionian ascending. Start with finger 2 on string 4.
+Play A ionian descending. Start with finger 4 on string 1.
+Play Db ionian descending. Start with finger 4 on string 6, above the 12th fret.
+Play C ionian descending. Start with finger 2 on string 5.
+Play F ionian ascending. Start with finger 3 on string 5.
+Play C ionian ascending. Start with finger 1 on string 2.
+Play A ionian ascending. Start with finger 2 on string 5, above the 12th fret.
+Play E ionian ascending. Start with finger 1 on string 2, above the 12th fret.
+Play G ionian descending. Start with finger 2 on string 6, above the 12th fret.
+Play F# ionian descending. Start with finger 4 on string 2, above the 12th fret.
+Play Db ionian ascending. Start with finger 2 on string 6, above the 12th fret.
+Play Eb ionian ascending. Start with finger 1 on string 3, above the 12th fret.
+Play G ionian ascending. Start with finger 4 on string 6, above the 12th fret.
+Play D ionian descending. Start with finger 2 on string 1.
+Play Eb ionian ascending. Start with finger 2 on string 1, above the 12th fret.
+Play Db ionian descending. Start with finger 2 on string 2, above the 12th fret.
+Play B ionian descending. Start with finger 3 on string 1.
+Play A ionian ascending. Start with finger 3 on string 5, above the 12th fret.
+Play E ionian descending. Start with finger 4 on string 3, above the 12th fret.
+Play A ionian descending. Start with finger 3 on string 6, above the 12th fret.
+Play G ionian descending. Start with finger 3 on string 2.
+Play B ionian ascending. Start with finger 2 on string 6, above the 12th fret.
+Play F ionian ascending. Start with finger 2 on string 2, above the 12th fret.
+Play Ab ionian descending. Start with finger 4 on string 5.
+Play F# ionian descending. Start with finger 2 on string 2.
+Play D ionian ascending. Start with finger 1 on string 3.
+Play E ionian ascending. Start with finger 1 on string 4, above the 12th fret.
+Play C ionian ascending. Start with finger 3 on string 1, above the 12th fret.
+Play E ionian descending. Start with finger 4 on string 3, above the 12th fret.
+Play C ionian ascending. Start with finger 4 on string 1, above the 12th fret.
+Play B ionian ascending. Start with finger 2 on string 3, above the 12th fret.
+Play B ionian ascending. Start with finger 4 on string 5, above the 12th fret.
+Play E ionian ascending. Start with finger 1 on string 1, above the 12th fret.
+Play Bb ionian descending. Start with finger 2 on string 4, above the 12th fret.
+Play E ionian descending. Start with finger 1 on string 2.
+Play Ab ionian descending. Start with finger 3 on string 6, above the 12th fret.
+Play Ab ionian descending. Start with finger 2 on string 2, above the 12th fret.
+Play Db ionian ascending. Start with finger 4 on string 5, above the 12th fret.
+Play Bb ionian ascending. Start with finger 2 on string 5, above the 12th fret.
+Play G ionian ascending. Start with finger 1 on string 3.
+Play F ionian ascending. Start with finger 3 on string 1, above the 12th fret.
+Play D ionian descending. Start with finger 4 on string 2.
+Play F ionian descending. Start with finger 2 on string 1.
+Play Ab ionian descending. Start with finger 2 on string 3, above the 12th fret.
+Play Bb ionian descending. Start with finger 1 on string 6.
+Play D ionian descending. Start with finger 1 on string 6.
+Play Db ionian ascending. Start with finger 1 on string 3, above the 12th fret.
+Play Db ionian descending. Start with finger 1 on string 3.
+Play Gb ionian ascending. Start with finger 3 on string 5, above the 12th fret.

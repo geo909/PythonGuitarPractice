@@ -1,0 +1,101 @@
+tags:guitar arpeggios triads
+Play the triad for E# aug ascending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for A aug descending. Start with the 3d at string 5, above the 12th fret.
+Play the triad for Bb m descending. Start with the root at string 6, above the 12th fret.
+Play the triad for Ab dim ascending. Start with the 5th at string 4.
+Play the triad for B aug ascending. Start with the root at string 6.
+Play the triad for D m descending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for D# m descending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for F dim descending. Start with the 3d at string 2.
+Play the triad for E dim ascending. Start with the 5th at string 1.
+Play the triad for G  ascending. Start with the 3d at string 5.
+Play the triad for E#  descending. Start with the root at string 1, above the 12th fret.
+Play the triad for A m ascending. Start with the root at string 6.
+Play the triad for G# dim descending. Start with the 3d at string 2.
+Play the triad for E# aug descending. Start with the 3d at string 2.
+Play the triad for Db dim descending. Start with the 3d at string 2, above the 12th fret.
+Play the triad for A  ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for C# m descending. Start with the 5th at string 4.
+Play the triad for E# m descending. Start with the 5th at string 4.
+Play the triad for C  ascending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for Gb m descending. Start with the root at string 6, above the 12th fret.
+Play the triad for Db dim descending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for Eb dim ascending. Start with the 3d at string 5.
+Play the triad for Eb aug descending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for C m ascending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for C# aug ascending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for Fb dim descending. Start with the 3d at string 2.
+Play the triad for Eb  descending. Start with the root at string 1.
+Play the triad for G m descending. Start with the 3d at string 2.
+Play the triad for C dim descending. Start with the 3d at string 5.
+Play the triad for Ab dim descending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for B aug descending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for Gb m descending. Start with the 3d at string 2, above the 12th fret.
+Play the triad for E# dim ascending. Start with the 3d at string 5.
+Play the triad for A  descending. Start with the 3d at string 2.
+Play the triad for A# dim descending. Start with the 3d at string 5.
+Play the triad for C# aug descending. Start with the root at string 6, above the 12th fret.
+Play the triad for E aug ascending. Start with the 5th at string 4.
+Play the triad for C dim ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for G# dim ascending. Start with the 3d at string 2, above the 12th fret.
+Play the triad for Db aug ascending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for C# dim ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for Bb aug descending. Start with the 5th at string 1.
+Play the triad for G#  descending. Start with the root at string 6.
+Play the triad for Fb  descending. Start with the root at string 6.
+Play the triad for F  ascending. Start with the 5th at string 1.
+Play the triad for F dim descending. Start with the 5th at string 4.
+Play the triad for E aug descending. Start with the root at string 1.
+Play the triad for E dim ascending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for Eb aug descending. Start with the 3d at string 5, above the 12th fret.
+Play the triad for Gb  ascending. Start with the 3d at string 5.
+Play the triad for E aug descending. Start with the 5th at string 1.
+Play the triad for D#  ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for E dim descending. Start with the 5th at string 1.
+Play the triad for Gb aug ascending. Start with the 3d at string 2, above the 12th fret.
+Play the triad for G# aug descending. Start with the 3d at string 2.
+Play the triad for Eb  descending. Start with the 5th at string 4.
+Play the triad for F# m ascending. Start with the 3d at string 5, above the 12th fret.
+Play the triad for F dim ascending. Start with the 5th at string 1.
+Play the triad for E aug ascending. Start with the root at string 1.
+Play the triad for G  descending. Start with the 3d at string 2, above the 12th fret.
+Play the triad for Ab  descending. Start with the 3d at string 2.
+Play the triad for D# m ascending. Start with the root at string 1.
+Play the triad for Db  ascending. Start with the root at string 6, above the 12th fret.
+Play the triad for E  ascending. Start with the 5th at string 4.
+Play the triad for D# dim descending. Start with the 5th at string 1.
+Play the triad for Eb  descending. Start with the root at string 6, above the 12th fret.
+Play the triad for C  descending. Start with the 3d at string 2.
+Play the triad for Eb aug ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for F# aug descending. Start with the 3d at string 5, above the 12th fret.
+Play the triad for E# m ascending. Start with the 3d at string 2.
+Play the triad for Fb dim descending. Start with the root at string 1, above the 12th fret.
+Play the triad for Fb  ascending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for Bb dim descending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for C dim descending. Start with the root at string 1.
+Play the triad for A m descending. Start with the 5th at string 1.
+Play the triad for E# m ascending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for Cb  descending. Start with the root at string 1, above the 12th fret.
+Play the triad for Fb aug ascending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for Cb  ascending. Start with the 5th at string 1.
+Play the triad for C# dim descending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for B# m descending. Start with the root at string 1, above the 12th fret.
+Play the triad for Fb  ascending. Start with the root at string 6.
+Play the triad for Fb aug ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for B#  ascending. Start with the 5th at string 1.
+Play the triad for D# aug descending. Start with the root at string 1.
+Play the triad for B# dim descending. Start with the root at string 1.
+Play the triad for Fb aug descending. Start with the root at string 1.
+Play the triad for Cb dim ascending. Start with the 3d at string 2.
+Play the triad for G aug descending. Start with the 3d at string 2, above the 12th fret.
+Play the triad for B# m descending. Start with the 5th at string 4, above the 12th fret.
+Play the triad for D#  descending. Start with the 3d at string 5, above the 12th fret.
+Play the triad for A aug ascending. Start with the root at string 6, above the 12th fret.
+Play the triad for Cb  ascending. Start with the root at string 6.
+Play the triad for Ab  descending. Start with the 5th at string 4.
+Play the triad for E# aug ascending. Start with the root at string 1, above the 12th fret.
+Play the triad for Fb dim descending. Start with the 3d at string 2.
+Play the triad for Cb dim descending. Start with the 3d at string 2.
+Play the triad for F dim descending. Start with the 5th at string 1, above the 12th fret.
+Play the triad for B aug descending. Start with the root at string 6.
+Play the triad for C#  descending. Start with the 3d at string 5.
